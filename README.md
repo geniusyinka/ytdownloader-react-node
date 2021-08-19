@@ -13,7 +13,7 @@ basic YouTube MP3 downloader
 
 This is a ReactJs + Node + tailwindcss project.
 
-It's a fully functional user signup and login page. Built with Laravel for the authentication API and consumed with ReactJs styled with Tailwindcss.
+It's a fully functional Youtube mp3 downloader.
 
 ## Prerequisite
 
