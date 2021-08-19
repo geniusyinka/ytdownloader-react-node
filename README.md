@@ -21,11 +21,11 @@ It's a fully functional Youtube mp3 downloader.
 
 ### Setup and Installation
 
-1. `git clone`
+1. `clone repo`
 2. `cd client`
-3. `npm install`
+3. run `npm install`
 4. `cd ..`
-5. `npm run dev`
+5. run `npm run dev`
 
 open browser and check the address:
 
